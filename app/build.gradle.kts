@@ -26,7 +26,7 @@ android {
 
     defaultConfig {
         applicationId = "com.gbros.tabslite"
-        minSdk = 26
+        minSdk = 24
         targetSdk = 34
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         versionCode = 3520
